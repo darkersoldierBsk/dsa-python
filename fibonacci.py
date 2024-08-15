@@ -1,6 +1,3 @@
-
-        
-print('Lowest value: ', minVal) # Step 4 - Print the min. value
 //First 20 Fibonacci numbers
 
 //TIP 1 - LOOP SOLUTION
